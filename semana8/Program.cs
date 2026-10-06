@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace CASO_SEMA7
+namespace CASO_SEMANA7
 {
     internal class Program
     {
